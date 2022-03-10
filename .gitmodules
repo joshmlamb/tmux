@@ -1,0 +1,3 @@
+[submodule "themes/srcery-tmux"]
+	path = themes/srcery-tmux
+	url = https://github.com/srcery-colors/srcery-tmux
